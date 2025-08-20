@@ -1,4 +1,4 @@
-##TONY INOJOSA
+## 💻TONY INOJOSA 
 
 ◻ Hello Network, my name is Luiz Antônio Inojosa da Silva, I'm 33 years old, and I'm transitioning to the IT field. I have experience with JavaScript, HTML, and CSS, as well as useful tools for programming. I've also developed a passion for Angular.
 
