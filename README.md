@@ -1,12 +1,8 @@
 ## 💻TONY INOJOSA 
 
-◻ Hello Network, my name is Luiz Antônio Inojosa da Silva, I'm 33 years old, and I'm transitioning to the IT field. I have experience with JavaScript, HTML, and CSS, as well as useful tools for programming. I've also developed a passion for Angular.
-
-I'm looking to specialize in creating websites and other web applications. I've acquired a passion for design and coding, creating enchanting digital experiences—from layout to front-end, all custom-made.
-
-As a developer, I'm just starting my career and passionate about transforming ideas into digital solutions.
-
-I have experience with personal projects using HTML, CSS, JavaScript, and Angular, as well as participating in programming bootcamps.
+◽My name is Luiz Antônio Inojosa da Silva, I'm 33 years old and from Recife.
+I'm currently in career transition, studying Systems Analysis and Development at UNIFATECIE, and I also took the Devclub FullStack course, where I gained extensive knowledge.
+I have experience and personal projects with HTML, CSS, JavaScript, and Angular.
 
 I'm currently seeking my first opportunity as a developer, with companies that value continuous learning and collaboration.
 
